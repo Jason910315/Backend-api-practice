@@ -2,12 +2,9 @@
 建構一個 RESTful API 伺服器，提供外部進行資料的操作，文件包含完整的專案框架、單元測試與容器化部署方案。
 
 ## Tech Stack
-- 語言: Python 3.10+
 - Web 框架: FastAPI
-- 資料處理: Pandas (用於數據分析與 CSV 解析)
 - 資料驗證: Pydantic (確保輸入/輸出資料格式嚴謹)
 - 測試框架: Unittest
-- 容器化: Docker
 - API 文件: Swagger UI (自動生成，並包含完整描述與範例)
 
 ## System Architecture
