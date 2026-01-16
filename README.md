@@ -113,7 +113,7 @@ uvicorn app.main:app --reload
 
 執行測試：
 ```bash
-python -m pytest
+python -m pytest test/test_api.py
 ```
 Docker Deployment
 ```bash
